@@ -1,0 +1,12 @@
+//This file is autogenreated via commonjs Grunt task. you can require() this file in a commonJS environment.
+require('../..js/transition.js')
+require('../..js/alert.js')
+require('../..js/button.js')
+require('../..js/carousel.js')
+require('../..js/collapse.js')
+require('../..js/dropdown.js')
+require('../..js/model.js')
+require('../..js/tooltip.js')
+require('../..js/popover.js')
+require('../..js/scrollspy.js')
+require('../..js/affix.js')
